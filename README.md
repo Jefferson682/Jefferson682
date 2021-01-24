@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Jefferson682/Jefferson682/blob/master/jeff-small.png" />
-  <p>student of analytics and developer systems, and developer web.</p>
+  <p align="center">student of analytics and developer systems, and developer web.</p>
 </p>
 
 ```js
