@@ -22,7 +22,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=jefferson682)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api/wakatime?username=jefferson682)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
