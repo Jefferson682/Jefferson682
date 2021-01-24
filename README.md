@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Me9q8Vbf0ZAs3iu9Zs8GO-8TzbaOnYJi/view?usp=sharing" />
+  <img src="https://github.com/Jefferson682/Jefferson682/blob/master/jeff-small.png" />
 </p>
 
 ```js
