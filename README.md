@@ -10,15 +10,15 @@ import SoftwareDeveloper from 'doVale-dev';
 
 class Bio extends SoftwareDeveloper {
   name     = 'J. Jefferson';
-  title    = 'Full Stack Developer junior';
-  company  = 'Loading...';
+  title    = 'Full Stack Developer junior and DevOps/Infra';
+  company  = 'ATI Service';
   location = 'Natal, RN';
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP', 'Groovy', 'Python3'];
-  databases  = ['MySQL'];
-  frameworks = ['Grails'];
+  databases  = ['MySQL', 'PostGresSQL'];
+  frameworks = ['Grails', 'Flask'];
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson682&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
