@@ -9,16 +9,16 @@
 import SoftwareDeveloper from 'doVale-dev';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'J. Jefferson';
-  title    = 'Full Stack Developer junior and DevOps/Infra';
+  name     = 'J. Jefferson N. do Vale';
+  title    = 'Full Stack Developer and DevOps/Infra';
   company  = 'ATI Service';
   location = 'Natal, RN';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Groovy', 'Python3'];
-  databases  = ['MySQL', 'PostGresSQL'];
-  frameworks = ['Grails', 'Flask'];
+  languages  = ['JavaScript', 'Groovy', 'Python3'];
+  databases  = ['MySQL', 'PostGresSQL', 'SQLServer'];
+  frameworks = ['Grails', 'Flask', 'VUE.js'];
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson682&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
