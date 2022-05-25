@@ -16,9 +16,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Groovy', 'Python3'];
-  databases  = ['MySQL', 'PostGresSQL', 'SQLServer'];
-  frameworks = ['Grails', 'Flask', 'VUE.js'];
+  languages  = ['Python3', 'Groovy', 'Java', 'JavaScript'];
+  databases  = ['PostGresSQL', 'MySQL', 'SQLServer'];
+  frameworks = ['Grails', 'Flask', 'VUE.js', 'Spring'];
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson682&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
