@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Jefferson682/Jefferson682/blob/master/jeff-small.png" />
-  <p align="center">student of analytics and developer systems, and developer web.</p>
+  <p align="center">Software engineer | DevOps</p>
 </p>
 
 ```js
@@ -16,17 +16,17 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Python3', 'Groovy', 'Java', 'JavaScript'];
-  databases  = ['PostGresSQL', 'MySQL', 'SQLServer'];
-  frameworks = ['Grails', 'Flask', 'VUE.js', 'Spring'];
+  languages  = ['Python', 'Groovy', 'Java', 'JavaScript'];
+  databases  = ['PostGreSQL', 'MySQL', 'SQLServer'];
+  frameworks = ['Flask', 'Grails', 'Spring', 'VUE.js'];
 }
 ```
 
-<div>
+<!-- <div>
 <a href="https://github.com/jefferson682">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson682&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefferson682&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 <!--
 **Jefferson682/Jefferson682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
