@@ -15,7 +15,7 @@ import FullCycleEngineer from 'Natal-RN-dev';
 class Bio extends FullCycleEngineer {
   name     = 'J. Jefferson N. do Vale';
   title    = 'Full Cycle Software Engineer & Platform Architect';
-  company  = 'ATI Service';
+  company  = 'RD Saúde SA';
   location = 'Natal, RN, Brazil';
   education = 'Post-Grad in Cloud Computing Architecture (In Progress)';
 }
