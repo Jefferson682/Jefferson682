@@ -1,38 +1,45 @@
 <p align="center">
   <img src="jeff-small.png" alt="J. Jefferson N. do Vale" />
 </p>
-<p align="center"><strong>Full Cycle Software Engineer | Platform &amp; Cloud Architect</strong></p>
 
-### Hi there 👋
+# Hi, I'm Jefferson 👋
 
-I am a **Full Cycle Software Engineer** with extensive experience bridging the gap between development and operations. My expertise lies in building, deploying, and maintaining highly reliable, scalable, and observable systems, from **frontend applications** to **cloud-native infrastructure**. I am currently advancing my knowledge with a post-graduate degree in **Architecture and Projects of Cloud Computing**.
+**Senior DevOps Engineer** at RD Saúde, one of Brazil's largest pharmacy groups.
+I work on the platform behind **1,000+ applications** running on **50+ Kubernetes clusters** (EKS, OKE and on-premises).
 
-My passion is **automation** and fostering a strong **DevOps culture** by equipping engineering teams with robust and efficient platforms.
+I'm also a **full cycle developer**: besides the platform, I build and ship applications end to end, from backend and frontend to the pipelines and infrastructure they run on. That's why I design platforms thinking like the developers who use them.
+I'm currently pursuing a post-graduate degree in **Cloud Computing Architecture**.
 
-### ✍️ Writing
+## 🛠️ What I do
 
-I write hands-on technical articles about **Linux, DevOps, infrastructure and homelab** (in Portuguese) under the name **devnordestino**: real problems, the troubleshooting along the way, and every command explained.
+- **Kubernetes & GitOps:** GitLab CI, Argo CD and Argo Rollouts (canary with automatic rollback based on error rate)
+- **Infrastructure as Code:** Terraform and Crossplane, mostly on AWS, also OCI (and some Azure and GCP)
+- **Platform Engineering:** an internal developer platform where developers create repositories, pipelines, Argo CD apps, databases, buckets, Kafka topics and ingress routes without opening tickets
+- **Software development:** backend with Java/Spring and Python/Flask, frontend with Vue.js, from design to production
+- **Automation:** Ansible playbooks for PostgreSQL and RabbitMQ on VMs, Kubespray clusters
+- **Observability:** Prometheus, Grafana, Loki and Splunk
+- **AI for ops:** internal agents with Amazon Bedrock
 
-- 📚 [**devnordestino-articles**](https://github.com/Jefferson682/devnordestino-articles): articles, covers, carousels and the scripts that generate them
+## 🚀 Recent work
 
-```js
-import FullCycleEngineer from 'Natal-RN-dev';
+- On-premises Kubernetes cluster across two sites with Kubespray, Vault, Traefik, BIG-IP and Velero for DR
+- Full OCI environment with Terraform: networking, OKE, managed PostgreSQL, RabbitMQ, Argo CD and Vault
+- Migration of nodes to ARM64 with multi-arch images, plus scheduled shutdown of non-production environments to cut costs
+- **Hydra**, a CLI for multicloud login and Kubernetes context switching, now used by the team (being rebuilt as open source)
 
-class Bio extends FullCycleEngineer {
-  name     = 'J. Jefferson N. do Vale';
-  title    = 'Full Cycle Software Engineer & Platform Architect';
-  company  = 'RD Saúde SA';
-  location = 'Natal, RN, Brazil';
-  education = 'Post-Grad in Cloud Computing Architecture (In Progress)';
-}
+## 🧰 Stack
 
-class TechStack extends FullCycleEngineer {
-  languages  = ['Python', 'Groovy', 'Java', 'JavaScript', 'Bash'];
-  cloud_iac  = ['AWS', 'Kubernetes (EKS)', 'Terraform', 'Ansible', 'ArgoCD'];
-  ci_cd      = ['GitLab CI', 'Jenkins', 'GitHub Actions'];
-  databases  = ['PostgreSQL', 'MySQL', 'SQLServer', 'RDS'];
-  frameworks = ['Spring (Java)', 'Flask (Python)', 'Vue.js', 'Grails'];
-  observability = ['Prometheus', 'Grafana', 'Loki', 'Splunk'];
-}
-```
+**Platform:** `Kubernetes` `Argo CD` `Argo Rollouts` `GitLab CI` `Jenkins` `GitHub Actions` `Terraform` `Crossplane` `Ansible` `Vault`<br>
+**Cloud:** `AWS` `OCI` `Azure` `GCP`<br>
+**Code:** `Python` `Bash` `Java` `Groovy` `JavaScript` · `Spring` `Flask` `Vue.js`<br>
+**Data & observability:** `PostgreSQL` `MySQL` `SQL Server` `RabbitMQ` `Kafka` `Prometheus` `Grafana` `Loki` `Splunk`
 
+## ✍️ Writing
+
+I write hands-on articles (in Portuguese) about **Linux, DevOps, homelab and troubleshooting** under the name **devnordestino**: real problems, what went wrong along the way, and every command explained.
+
+📝 All articles on [**dev.to/jefferson682**](https://dev.to/jefferson682) · 📚 Sources, covers and carousels in [**devnordestino-articles**](https://github.com/Jefferson682/devnordestino-articles)
+
+## 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/jefferson682) · [dev.to](https://dev.to/jefferson682)
