@@ -9,6 +9,12 @@ I am a **Full Cycle Software Engineer** with extensive experience bridging the g
 
 My passion is **automation** and fostering a strong **DevOps culture** by equipping engineering teams with robust and efficient platforms.
 
+### ✍️ Writing
+
+I write hands-on technical articles about **Linux, DevOps, infrastructure and homelab** (in Portuguese) under the name **devnordestino**: real problems, the troubleshooting along the way, and every command explained.
+
+- 📚 [**devnordestino-articles**](https://github.com/Jefferson682/devnordestino-articles): articles, covers, carousels and the scripts that generate them
+
 ```js
 import FullCycleEngineer from 'Natal-RN-dev';
 
