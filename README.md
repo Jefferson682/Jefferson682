@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Jefferson682/Jefferson682/blob/master/jeff-small.png" />
-  <p align="center">**Full Cycle Software Engineer | Platform & Cloud Architect**</p>
+  <img src="jeff-small.png" alt="J. Jefferson N. do Vale" />
 </p>
+<p align="center"><strong>Full Cycle Software Engineer | Platform &amp; Cloud Architect</strong></p>
 
 ### Hi there 👋
 
